@@ -1,5 +1,5 @@
-# **ShopPro --FreeLance Project – Full Store Management App Using Flutter**
-I’d like to share my first freelance project!  
+# **StorePro --FreeLance Project – Full Store Management App Using Flutter**
+I’d like to share my recent freelance project!  
 This project is a **complete store management application** built with **Flutter**.  
 
 ## **Project Details:**  
