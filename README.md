@@ -1,5 +1,6 @@
-# **StorePro --FreeLance Project – Full Store Management App Using Flutter**
-I’d like to share my recent freelance project!  
+# **Freelance Project – Full Store Management App Using Flutter**  
+
+I’d like to share my first freelance project!  
 This project is a **complete store management application** built with **Flutter**.  
 
 ## **Project Details:**  
@@ -10,7 +11,10 @@ This project is a **complete store management application** built with **Flutter
 
 I’ve decided to split the project into multiple videos since it’s quite large. Below are the features covered in the **first video**:  
 
+
 ### **Features (Part 1):**  
+
+[![Watch the video](https://img.youtube.com/vi/yqCFQivl3eY/0.jpg)](https://www.youtube.com/watch?v=yqCFQivl3eY)
 
 1. **Authentication with different user roles and permissions.**  
 
