@@ -22,19 +22,19 @@ I’ve decided to split the project into multiple videos since it’s quite larg
 1. **Authentication with different user roles and permissions.**  
 
 2. **Main dashboard for easy access to the following features:**  
-   - Add an **invoice (customer price).**  
-   - Add a **wholesale invoice (trader price).**  
-   - Add a **sales return invoice.**  
+   - Add a **Bill (customer price).**  
+   - Add a **wholesale Bill (trader price).**  
+   - Add a **sales return Bill.**  
    - Add an **entry permit for data input.**  
    - View **low-stock products.**  
-   - View **invoice details** (such as total amount, paid amount, and remaining balance for premium customers).  
+   - View **Bill details** (such as total amount, paid amount, and remaining balance for premium customers).  
 
 3. **Full CRUD operations are supported** for **warehouses, categories, and products.**  
 
-4. **Invoice management with the following conditions:**  
-   - The user **cannot increase an item’s quantity** in an invoice if it exceeds the available stock.  
-   - The user **cannot add an item** with a quantity of **zero** to the invoice.  
-   - The user can apply a **custom discount percentage** to the invoice.  
+4. **Bill management with the following conditions:**  
+   - The user **cannot increase an item’s quantity** in a Bill if it exceeds the available stock.  
+   - The user **cannot add an item** with a quantity of **zero** to the Bill.  
+   - The user can apply a **custom discount percentage** to the Bill.  
 
 ### **Features (Part 2):**  
 
@@ -46,17 +46,17 @@ I’ve decided to split the project into multiple videos since it’s quite larg
 
 2. **Search feature for finding products by name.**  
 
-3. **Trader invoice feature with the following conditions:**  
+3. **Trader Bill feature with the following conditions:**  
    - Product price is set at the trader price.  
    - Partial payment is allowed for premium customers.  
 
 4. **Display list of premium customers.**  
 
-5. **View invoices for each customer with total remaining balances.**  
+5. **View bills for each customer with total remaining balances.**  
 
-6. **Ability to add payments from premium customers to settle invoice balances.**  
+6. **Ability to add payments from premium customers to settle Bill balances.**  
 
-7. **Return invoices feature.**  
+7. **Return bills feature.**  
 
 8. **Entry permit feature with the ability to view current stock and specify new quantities.**  
 
@@ -66,7 +66,7 @@ I’ve decided to split the project into multiple videos since it’s quite larg
 
 11. **Dedicated section for products customers wish to purchase later but are currently out of stock.**  
 
-12. **Invoice management with options to view invoices for the current day and current month.**  
+12. **Bill management with options to view bills for the current day and current month.**  
 
 13. **Daily expense tracking feature.**  
 
